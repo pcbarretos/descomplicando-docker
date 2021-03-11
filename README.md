@@ -31,7 +31,7 @@ Conteúdo Abordado na Apresentação.
 - Abra um terminal ou Power Shell e digite:
   <br></br>
   * `docker run hello-wolrd`
-    <br><br>
+  <br><br>
   
 - Se voce seguiu todo o passo a passo de instalação de acordo com o seu Sistema Operacional corretamente, esse será o retorno no seu teminal/cmd/PowerShell.
   <br> </br>
@@ -39,3 +39,15 @@ Conteúdo Abordado na Apresentação.
   <br> </br>
   - Se retornou como mostrado acima, Parabens! seu Docker está pronto pra usar.
   
+### Primeiros Comandos
+- Docker help
+  - `docker --help`
+    <br> </br>
+    ![dockerhub](https://cdn.educba.com/academy/wp-content/uploads/2019/02/docker-help.png)
+    <br> </br>
+- Aqui você consegue consultar vários comandos e saber seu funcionamento
+    <br> </br>
+  - `docker login`
+    <br> </br>
+  ![dockerhub](https://miro.medium.com/max/2526/1*ngr4E2cM-fa5jJMnTydNEA.png)
+    <br> </br>
